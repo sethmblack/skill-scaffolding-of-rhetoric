@@ -3,8 +3,9 @@ name: scaffolding-of-rhetoric
 description: Analyze and improve any persuasive communication using Winston Churchill's six-element framework from his 1897 essay, which guided sixty years of legendary oratory.
 license: MIT
 metadata:
+  version: 1.0.4909
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - scaffolding-of-rhetoric
